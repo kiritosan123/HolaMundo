@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "608586995486",
+    "firebase_url": "https://savelife-11ec4.firebaseio.com",
+    "project_id": "savelife-11ec4",
+    "storage_bucket": "savelife-11ec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608586995486:android:c7537109dc8fd717",
+        "android_client_info": {
+          "package_name": "com.example.kirito.holamundo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608586995486-9ru9dkpest6rs6gqj4c8tktqfif9910d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4DSJwpUM7yedH8F-AfPsH4VNAfKjq02E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
